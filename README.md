@@ -8,11 +8,13 @@ Repository: https://github.com/1JSK1/zhikong-device-control
 
 ### wxautomation
 桌面微信自动化项目实现。
+
 Role: Co-worker / Contributor  
 Repository: https://github.com/hongkai-Tang/wxautomation## Hi there 👋
 
 ### 星图智顾
-ai赋能的智能投资顾问
+ai赋能的智能投资顾问。
+
 Role: Co-worker / Contributor  
 Repository: https://github.com/jasonandme/starmap-advisor## Hi there 👋
 
